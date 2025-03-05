@@ -9,8 +9,8 @@ public class Pessoa {
 
     public static void main(String[] args) {
         Pessoa pessoa1 = new Pessoa();
-        pessoa1.nome = "João";
-        pessoa1.idade = 25;
+        pessoa1.nome = "Fernanda";
+        pessoa1.idade = 27;
         pessoa1.apresentar();
     }
 }
